@@ -1,0 +1,34 @@
+header{
+    width: 980px;
+    height: 20px;
+    background-color: gray;
+
+    padding: 20px;
+}
+
+.slider{
+    width: 980px;
+    height: 250px;
+    background-color: orange;
+
+    padding: 20px;
+}
+
+.paraOne{
+    width:490px ;
+    height: 250px;
+    /* background-color:gray; */
+
+    float: left;
+
+    padding: 10px;
+}
+
+.paraTwo{
+    width: 490px;
+    height: 250px;
+    /* background-color: darkcyan; */
+
+    float: left;
+    padding: 10px;
+}
